@@ -1,0 +1,11 @@
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.csproj.AssemblyReference.cache
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.Form1.resources
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.Properties.Resources.resources
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.csproj.GenerateResource.cache
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.csproj.CoreCompileInputs.cache
+E:\git\GNK_testJob\TestJob2\TestJob2\bin\Debug\TestJob2.exe.config
+E:\git\GNK_testJob\TestJob2\TestJob2\bin\Debug\TestJob2.exe
+E:\git\GNK_testJob\TestJob2\TestJob2\bin\Debug\TestJob2.pdb
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.exe
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.pdb
+E:\git\GNK_testJob\TestJob2\TestJob2\obj\Debug\TestJob2.Form2.resources
