@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\git\\GNK_testJob\\TestJob2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|E:\\git\\GNK_testJob\\TestJob2\\testjob2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|solutionrelative:testjob2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|e:\\git\\gnk_testjob\\testjob2\\testjob2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|solutionrelative:testjob2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|e:\\git\\gnk_testjob\\testjob2\\testjob2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|solutionrelative:testjob2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|e:\\git\\gnk_testjob\\testjob2\\testjob2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8C25B369-240B-4B7A-96C7-86A2BF1D2030}|TestJob2\\TestJob2.csproj|solutionrelative:testjob2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "E:\\git\\GNK_testJob\\TestJob2\\TestJob2\\Form2.cs",
-              "RelativeDocumentMoniker": "TestJob2\\Form2.cs",
-              "ToolTip": "E:\\git\\GNK_testJob\\TestJob2\\TestJob2\\Form2.cs [Design]",
-              "RelativeToolTip": "TestJob2\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T16:23:21.883Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\git\\GNK_testJob\\TestJob2\\TestJob2\\Form1.cs",
               "RelativeDocumentMoniker": "TestJob2\\Form1.cs",
               "ToolTip": "E:\\git\\GNK_testJob\\TestJob2\\TestJob2\\Form1.cs",
               "RelativeToolTip": "TestJob2\\Form1.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAcwHoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-09T12:28:25.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\git\\GNK_testJob\\TestJob2\\TestJob2\\Form1.cs",
               "RelativeDocumentMoniker": "TestJob2\\Form1.cs",

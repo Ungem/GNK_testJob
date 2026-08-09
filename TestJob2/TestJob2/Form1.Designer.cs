@@ -59,7 +59,6 @@
             this.folderPathTextBox.Name = "folderPathTextBox";
             this.folderPathTextBox.Size = new System.Drawing.Size(451, 20);
             this.folderPathTextBox.TabIndex = 1;
-            this.folderPathTextBox.Text = "/ГПХ/ИТ/ЕЛМА";
             // 
             // button1
             // 
