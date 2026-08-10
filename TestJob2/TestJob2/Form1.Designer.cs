@@ -59,6 +59,7 @@
             this.folderPathTextBox.Name = "folderPathTextBox";
             this.folderPathTextBox.Size = new System.Drawing.Size(451, 20);
             this.folderPathTextBox.TabIndex = 1;
+            this.folderPathTextBox.TextChanged += new System.EventHandler(this.folderPathTextBox_TextChanged);
             // 
             // button1
             // 

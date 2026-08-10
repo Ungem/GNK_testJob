@@ -16,6 +16,12 @@ namespace TestJob2
             InitializeComponent();
         }
 
+        #region Свойства
+
+        private string CurrentSelectedPath = string.Empty;
+
+        #endregion
+
         #region События
 
         private void Form1_Load(object sender, EventArgs e)
@@ -68,7 +74,9 @@ namespace TestJob2
 
             if (folderDialog.ShowDialog() == DialogResult.OK)
             {
-                folderPathTextBox.Text = CheckFolder(folderDialog.SelectedPath) ? folderDialog.SelectedPath.Substring(root.Length) : relativePath;
+                var result = CheckFolder(folderDialog.SelectedPath);
+                folderPathTextBox.Text = result ? folderDialog.SelectedPath.Substring(root.Length) : relativePath;
+                CurrentSelectedPath = result ? folderDialog.SelectedPath : CurrentSelectedPath;
             }
         }
 
@@ -147,6 +155,15 @@ namespace TestJob2
             else
             {
                 MessageBox.Show("Документы не найдены");
+            }
+        }
+
+        private void folderPathTextBox_TextChanged(object sender, EventArgs e)
+        {
+            if (folderPathTextBox.Text != CurrentSelectedPath)
+            {
+                var folderPath = folderPathTextBox.Text.Replace('/', Path.DirectorySeparatorChar);
+                CheckFolder(Path.Combine(rootPathTextBox.Text, folderPath));
             }
         }
 
